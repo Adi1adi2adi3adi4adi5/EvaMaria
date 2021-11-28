@@ -88,7 +88,7 @@ python3 bot.py
 • /logs - to get the rescent errors
 • /stats - to get status of files in db.
 * /filter - add manual filters
-
+* /filters - list all the filters of a chat
 * /connect - connect to PM.
 * /disconnect - disconnect from PM
 * /del - delete a filter
